@@ -8,7 +8,7 @@
                 "source": {
                     "url": "https://github.com/Mail4car/testc.git",
                     "type": "git",
-		    "reference": "df488b856f3b174675a6333d5eb0bfac3dbf73a2"
+		    "reference": "fc5528939db585d0c60a9a6a40831eed39a54223"
                 },
 		"require": {
 			"yiisoft/yii2": "2.0.10"
