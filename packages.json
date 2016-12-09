@@ -1,6 +1,6 @@
 {
     "packages": {
-        "tools\/deploy-backend": {
+        "smtest/smtest": {
             "dev-master": {
                 "name": "smtest/smtest",
                 "type": "project",
@@ -10,11 +10,11 @@
                     "type": "git",
 		    "reference": "dfc6594fb034c4a143be8742983b5c1f12abe902"
                 },
-                "homepage": "http:\/\/oft-e.com",
+                "homepage": "http://oft-e.com",
                 "version": "1.0.0-stable"
             }
         },
-	"tools\/zxczxc": {
+	"smtest/pr": {
             "dev-master": {
                 "name": "smtest/pr",
                 "type": "project",
@@ -24,7 +24,7 @@
                     "type": "git",
 		    "reference": "2893cc72a20dc00787b63c4e9719993c1ae8c6af"
                 },
-                "homepage": "http:\/\/oft-e.com",
+                "homepage": "http://oft-e.com",
                 "version": "1.0.0-stable"
             }
         }
