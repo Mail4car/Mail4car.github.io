@@ -24,6 +24,9 @@
                     "type": "git",
 		    "reference": "2d0a85626c891ffe40fbabfa6ed8ae926838a991"
                 },
+		"require": {
+			"smtest/smtest": "*"
+		},
                 "homepage": "http://oft-e.com",
                 "version": "1.0.0-stable"
             }
