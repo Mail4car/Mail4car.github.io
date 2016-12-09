@@ -1,0 +1,18 @@
+{
+    "packages": {
+        "tools\/deploy-backend": {
+            "dev-master": {
+                "name": "smtest/smtest",
+                "type": "project",
+		"minimum-stability": "stable",
+                "source": {
+                    "url": "https://github.com/Mail4car/testc.git",
+                    "type": "git",
+		    "reference": "9e1d67c76abe0e05e3777ffda5c10b033a3b43ee"
+                },
+                "homepage": "http:\/\/oft-e.com",
+                "version": "1.0.0-stable"
+            }
+        }
+    }
+}
