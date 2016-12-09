@@ -8,13 +8,10 @@
                 "source": {
                     "url": "https://github.com/Mail4car/testc.git",
                     "type": "git",
-		    "reference": "502070e9b9a5a511f98a31f46b92b0b059a57126"
+		    "reference": "1887128cc51a21dc3251c3be50353655ac41c152"
                 },
 		"require": {
 			"yiisoft/yii2": "2.0.10"
-		},
-		"scripts": {
-			"post-root-package-install": "mkdir post-root-package-install -p"
 		},
                 "homepage": "http://oft-e.com",
                 "version": "1.0.0-stable"
