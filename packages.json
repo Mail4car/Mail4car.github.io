@@ -1,8 +1,8 @@
 {
     "packages": {
-        "smtest/smtest": {
+        "smtest\/smtest": {
             "dev-master": {
-                "name": "smtest/smtest",
+                "name": "smtest\/smtest",
                 "type": "project",
 		"minimum-stability": "stable",
                 "source": {
@@ -14,9 +14,9 @@
                 "version": "1.0.0-stable"
             }
         },
-	"smtest/pr": {
+	"smtest\/pr": {
             "dev-master": {
-                "name": "smtest/pr",
+                "name": "smtest\/pr",
                 "type": "project",
 		"minimum-stability": "stable",
                 "source": {
