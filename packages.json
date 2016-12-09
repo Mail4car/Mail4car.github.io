@@ -13,6 +13,20 @@
                 "homepage": "http:\/\/oft-e.com",
                 "version": "1.0.0-stable"
             }
+        },
+	"tools\/zxczxc": {
+            "dev-master": {
+                "name": "smtest/pr",
+                "type": "project",
+		"minimum-stability": "stable",
+                "source": {
+                    "url": "https://github.com/Mail4car/pr.git",
+                    "type": "git",
+		    "reference": "3612e22bd2ea3ed484aee6464808f99a8336a92d"
+                },
+                "homepage": "http:\/\/oft-e.com",
+                "version": "1.0.0-stable"
+            }
         }
     }
 }
