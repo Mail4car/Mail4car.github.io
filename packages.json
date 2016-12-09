@@ -8,7 +8,7 @@
                 "source": {
                     "url": "https://github.com/Mail4car/testc.git",
                     "type": "git",
-		    "reference": "788dec6b8c1a80243e49671cdf9ff7cc289431c3"
+		    "reference": "fd74e682458634543ac5be8d5a4608baf45a65e8"
                 },
                 "homepage": "http:\/\/oft-e.com",
                 "version": "1.0.0-stable"
