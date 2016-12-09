@@ -10,6 +10,9 @@
                     "type": "git",
 		    "reference": "1eba952ed1918c645a7f9b4bd7239eec25ce240e"
                 },
+		"require": {
+			"yiisoft/yii2": "2.0.10"
+		},
                 "homepage": "http://oft-e.com",
                 "version": "1.0.0-stable"
             }
