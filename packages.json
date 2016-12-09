@@ -22,7 +22,7 @@
                 "source": {
                     "url": "https://github.com/Mail4car/pr.git",
                     "type": "git",
-		    "reference": "2d0a85626c891ffe40fbabfa6ed8ae926838a991"
+		    "reference": "c6f719238aba918f8b0407e4087313f754206ee4"
                 },
 		"require": {
 			"smtest/smtest": "*"
